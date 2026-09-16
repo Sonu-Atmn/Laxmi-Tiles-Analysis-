@@ -1,0 +1,121 @@
+idx,customer_id,customer_name,customer_type,segment,email,phone,city,state,gst_number,registration_date
+0,C2103,Vikram Chauhan,Retail,Individual Homeowner,VIKRAM.CHAUHAN15@GMAIL.COM,+91-7350942319,Lucknow,Uttar Pradesh,,2025-04-22
+1,C2086,Preeti Singh,Retail,New Construction,preeti.singh65@hotmail.com,+91-8197122021,Dhanbad,Jharkhand,,2025-10-30
+2,C2105,Sneha Pillai,Retail,Commercial Project,sneha.pillai4@rediffmail.com,+91-9025914060,Lucknow,Uttar Pradesh,,2024-03-24
+3,C2059,Rohit Gupta,Architect/Interior Designer,Renovation Project,rohit.gupta1@gmail.com,+91-7854839305,Hyderabad,Telangana,,2025-05-09
+4,C2025,Gaurav Bansal,Contractor,Renovation Project,gaurav.bansal18@rediffmail.com,+91-8833436553,Indore,Madhya Pradesh,12AAAAA4942A1Z7,2023-11-30
+5,C2061,Sanjay Ansari,Retail,Renovation Project,sanjay.ansari47@rediffmail.com,+91-7111754309,Raipur,Chhattisgarh,,2026-07-13
+6,C2014,Imran Pillai,Architect/Interior Designer,Individual Homeowner,imran.pillai70@gmail.com,+91-8730957415,Delhi,Delhi,30AAAAA2491A1Z5,2023-04-21
+7,C2077,Amit Joshi,Builder/Developer,New Construction,amit.joshi5@rediffmail.com,+91-9034950920,Raipur,Chhattisgarh,13AAAAA7476A1Z9,2023-01-29
+8,C2100,Rakesh Reddy,Retail,Renovation Project,rakesh.reddy86@hotmail.com,+91-9973992666,Bhubaneswar,Odisha,,2025-04-04
+9,C2006,Rahul Ansari,Architect/Interior Designer,New Construction,rahul.ansari75@rediffmail.com,+91-9278355898,Dhanbad,Jharkhand,18AAAAA8767A1Z2,2024-10-25
+10,C2003,Vivek Rao,Architect/Interior Designer,Individual Homeowner,vivek.rao75@hotmail.com,+91-8835899391,Kolkata,West Bengal,27AAAAA2028A1Z1,2024-06-17
+11,C2023,Simran Menon,Architect/Interior Designer,Individual Homeowner,simran.menon62@gmail.com,+91-9235877941,Patna,Bihar,16AAAAA5537A1Z1,2024-08-28
+12,C2007,Shalini Khan,Retail,Commercial Project,shalini.khan79@gmail.com,+91-7073970515,Chennai,Tamil Nadu,,2024-11-22
+13,C2040,Ramesh Khan,Builder/Developer,Renovation Project,ramesh.khan75@yahoo.com,+91-8862712107,Raipur,Chhattisgarh,30AAAAA6909A1Z2,2026-08-28
+14,C2046,Deepika Reddy,Architect/Interior Designer,Individual Homeowner,deepika.reddy47@yahoo.com,+91-9449378690,Dhanbad,Jharkhand,18AAAAA2846A1Z6,2022-08-04
+15,C2056,Anjali Iyer,Contractor,Commercial Project,ANJALI.IYER3@YAHOO.COM,+91-8415050896,Mumbai,Maharashtra,35AAAAA8754A1Z8,2026-01-01
+16,C2088,Fatima Mehta,Builder/Developer,Renovation Project,fatima.mehta33@yahoo.com,+91-9729655992,Delhi,Delhi,36AAAAA8477A1Z3,2021-09-26
+17,C2089,Ramesh Kapoor,Architect/Interior Designer,New Construction,ramesh.kapoor26@yahoo.com,+91-7777951822,Bengaluru,Karnataka,18AAAAA6371A1Z7,2026-09-04
+18,C2049,Ajay Chatterjee,Contractor,Commercial Project,ajay.chatterjee7@outlook.com,+91-8181966105,Dhanbad,Jharkhand,19AAAAA3439A1Z4,2021-11-09
+19,C2115,Alok Nair,Builder/Developer,Renovation Project,alok.nair3@hotmail.com,+91-9783465519,Bhubaneswar,Odisha,31AAAAA3999A1Z6,2023-10-22
+20,C2114,Sunita Pillai,Retail,Renovation Project,sunita.pillai41@outlook.com,+91-9102126281,Raipur,Chhattisgarh,,2023-01-14
+21,C2043,Rahul Bose,Retail,Renovation Project,rahul.bose39@hotmail.com,+91-7832195397,Bengaluru,Karnataka,,2024-09-20
+22,C2094,Rohit Bansal,Architect/Interior Designer,Renovation Project,rohit.bansal27@outlook.com,+91-8912349472,Lucknow,Uttar Pradesh,14AAAAA1231A1Z4,2025-08-20
+23,C2093,Ramesh Chatterjee,Retail,Commercial Project,ramesh.chatterjee7@gmail.com,,Jamshedpur,Jharkhand,,2023-07-20
+24,C2079,Alok Sharma,Builder/Developer,Renovation Project,alok.sharma1@rediffmail.com,+91-9385663080,Lucknow,Uttar Pradesh,36AAAAA2482A1Z7,2025-05-20
+25,C2034,Gaurav Singh,Builder/Developer,Commercial Project,gaurav.singh30@outlook.com,+91-8660350341,Raipur,Chhattisgarh,,2025-05-30
+26,C2044,Imran Verma,Retail,Individual Homeowner,imran.verma67@outlook.com,+91-9214174174,Jaipur,Rajasthan,,2023-06-11
+27,C2029,Rohit Gupta,Retail,Individual Homeowner,rohit.gupta87@outlook.com,+91-7886126981,Pune,Maharashtra,,2023-01-14
+28,C2054,Anjali Joshi,Retail,New Construction,anjali.joshi53@rediffmail.com,+91-9907312632,Mumbai,Maharashtra,,2023-04-08
+29,C2051,Nisha Reddy,Retail,Commercial Project,NISHA.REDDY37@REDIFFMAIL.COM,+91-9014928162,Dhanbad,Jharkhand,,2026-01-21
+30,C2102,Simran Patel,Retail,Individual Homeowner,simran.patel82@gmail.com,+91-7136428140,Lucknow,Uttar Pradesh,,2021-05-07
+31,C2074,Bharti Verma,Retail,Commercial Project,bharti.verma6@outlook.com,+91-9754368759,Patna,Bihar,,2023-08-05
+32,C2005,Divya Menon,Retail,Individual Homeowner,divya.menon44@yahoo.com,+91-8677564804,Chennai,Tamil Nadu,,2022-04-29
+33,C2116,Nitin Kapoor,Retail,New Construction,nitin.kapoor13@hotmail.com,+91-7527036189,Patna,Bihar,,2023-06-12
+34,C2076,Simran Chatterjee,Retail,New Construction,simran.chatterjee33@gmail.com,+91-7463215788,Bengaluru,Karnataka,,2024-10-24
+35,C2097,Arjun Kumar,Retail,Commercial Project,arjun.kumar81@gmail.com,+91-8666550551,Raipur,Chhattisgarh,,2022-12-17
+36,C2041,Gaurav Agarwal,Builder/Developer,Individual Homeowner,gaurav.agarwal9@hotmail.com,,Jamshedpur,Jharkhand,26AAAAA2082A1Z8,2023-09-29
+37,C2090,Ajay Singh,Retail,New Construction,ajay.singh14@outlook.com,+91-8819278347,Guwahati,Assam,,2026-01-30
+38,C2048,Rakesh Singh,Retail,New Construction,rakesh.singh26@gmail.com,+91-9749562200,Ahmedabad,Gujarat,,2024-10-17
+39,C2037,Rahul Mehta,Retail,Renovation Project,rahul.mehta36@hotmail.com,+91-8098860020,Bengaluru,Karnataka,,2021-01-05
+40,C2060,Rakesh Khan,Contractor,Renovation Project,RAKESH.KHAN40@GMAIL.COM,+91-7095963976,Mumbai,Maharashtra,31AAAAA7881A1Z2,2023-10-09
+41,C2021,Deepika Sharma,Retail,New Construction,deepika.sharma70@rediffmail.com,+91-7788186865,Pune,Maharashtra,,2026-08-15
+42,C2109,Ajay Rao,Architect/Interior Designer,Renovation Project,ajay.rao59@yahoo.com,+91-9896692672,Indore,Madhya Pradesh,34AAAAA1555A1Z6,2025-04-03
+43,C2001,Rakesh Kumar,Builder/Developer,Individual Homeowner,rakesh.kumar75@gmail.com,+91-9691180239,Bhubaneswar,Odisha,12AAAAA8104A1Z7,2021-10-24
+44,C2072,Suresh Rao,Architect/Interior Designer,Renovation Project,suresh.rao73@outlook.com,+91-9555048525,Chennai,Tamil Nadu,16AAAAA8199A1Z4,2022-05-12
+45,C2035,Preeti Chatterjee,Retail,Individual Homeowner,preeti.chatterjee8@gmail.com,+91-9049443501,Jamshedpur,Jharkhand,,2021-10-17
+46,C2067,Preeti Verma,Retail,Commercial Project,preeti.verma96@gmail.com,+91-9632318126,Bhubaneswar,Odisha,,2021-09-14
+47,C2106,Karan Kapoor,Architect/Interior Designer,Renovation Project,karan.kapoor1@hotmail.com,+91-8882647632,Jamshedpur,Jharkhand,11AAAAA1071A1Z6,2022-01-08
+48,C2070,Pooja Bose,Retail,New Construction,pooja.bose26@rediffmail.com,+91-8185788081,Mumbai,Maharashtra,,2026-03-03
+49,C2066,Nitin Chatterjee,Contractor,Individual Homeowner,nitin.chatterjee70@rediffmail.com,+91-9310972057,Hyderabad,Telangana,25AAAAA1496A1Z7,2021-07-21
+50,C2113,Meena Reddy,Contractor,Individual Homeowner,meena.reddy65@outlook.com,+91-8307567216,Bhubaneswar,Odisha,29AAAAA7630A1Z1,2021-02-21
+51,C2091,Swati Iyer,Retail,Renovation Project,swati.iyer23@hotmail.com,+91-8084020667,Bhubaneswar,Odisha,,2025-01-15
+52,C2083,Simran Das,Contractor,Renovation Project,simran.das21@rediffmail.com,+91-7136662395,Bengaluru,Karnataka,33AAAAA4155A1Z1,2023-06-13
+53,C2081,Ramesh Patel,Retail,New Construction,ramesh.patel14@rediffmail.com,+91-8707732516,Kolkata,West Bengal,,2022-10-25
+54,C2004,Deepika Kapoor,Contractor,New Construction,deepika.kapoor32@yahoo.com,+91-8918769399,Indore,Madhya Pradesh,28AAAAA5919A1Z9,2026-03-23
+55,C2036,Ramesh Ansari,Architect/Interior Designer,Renovation Project,RAMESH.ANSARI35@REDIFFMAIL.COM,+91-7148270221,Hyderabad,Telangana,20AAAAA9963A1Z6,2024-04-15
+56,C2120,Bharti Mehta,Builder/Developer,Renovation Project,bharti.mehta49@outlook.com,+91-8162440206,Indore,Madhya Pradesh,25AAAAA1044A1Z5,2026-04-07
+57,C2031,Yogesh Nair,Retail,Individual Homeowner,yogesh.nair54@outlook.com,+91-7037854453,Dhanbad,Jharkhand,,2026-02-02
+58,C2009,Nitin Nair,Retail,Renovation Project,nitin.nair63@hotmail.com,+91-7760096313,Kolkata,West Bengal,,2022-09-12
+59,C2053,Manoj Gupta,Architect/Interior Designer,Commercial Project,manoj.gupta58@rediffmail.com,+91-8484353625,Bengaluru,Karnataka,12AAAAA3862A1Z6,2023-06-21
+60,C2065,Swati Joshi,Retail,Individual Homeowner,swati.joshi54@gmail.com,+91-7256346674,Chennai,Tamil Nadu,,2021-01-12
+61,C2087,Suresh Gupta,Builder/Developer,Individual Homeowner,SURESH.GUPTA84@YAHOO.COM,+91-9464376050,Ahmedabad,Gujarat,29AAAAA2795A1Z4,2021-08-11
+62,C2017,Swati Gupta,Retail,Renovation Project,swati.gupta80@hotmail.com,+91-7644554267,Mumbai,Maharashtra,,2026-04-10
+63,C2016,Karan Menon,Retail,New Construction,karan.menon45@rediffmail.com,+91-7849235381,Ranchi,Jharkhand,,2026-04-19
+64,C2015,Swati Patel,Retail,New Construction,swati.patel52@yahoo.com,+91-9009435578,Lucknow,Uttar Pradesh,,2023-07-03
+65,C2057,Vikram Das,Contractor,Commercial Project,vikram.das20@hotmail.com,+91-9566024292,Guwahati,Assam,36AAAAA8492A1Z2,2023-10-15
+66,C2104,Vivek Kapoor,Retail,Individual Homeowner,vivek.kapoor34@gmail.com,+91-7964851830,Patna,Bihar,,2023-04-20
+67,C2099,Meena Khan,Builder/Developer,Commercial Project,meena.khan28@gmail.com,+91-7968694148,Indore,Madhya Pradesh,18AAAAA4868A1Z4,2023-12-23
+68,C2028,Nisha Malhotra,Builder/Developer,Individual Homeowner,nisha.malhotra66@gmail.com,+91-8086277821,Chennai,Tamil Nadu,,2025-04-24
+69,C2064,Neha Gupta,Retail,Renovation Project,neha.gupta5@outlook.com,+91-9138078786,Delhi,Delhi,,2023-01-30
+70,C2026,Deepika Ansari,Retail,Renovation Project,deepika.ansari60@yahoo.com,+91-7468543175,Hyderabad,Telangana,,2025-02-08
+71,C2107,Rohit Kapoor,Contractor,New Construction,rohit.kapoor28@yahoo.com,+91-8894030826,Delhi,Delhi,30AAAAA2325A1Z8,2023-12-04
+72,C2071,Alok Gupta,Contractor,New Construction,alok.gupta34@hotmail.com,+91-8397723791,Jamshedpur,Jharkhand,25AAAAA8323A1Z3,2022-10-21
+73,C2012,Tarun Kumar,Retail,New Construction,tarun.kumar20@outlook.com,+91-7230437256,Indore,Madhya Pradesh,,2021-04-15
+74,C2022,Karan Malhotra,Contractor,Renovation Project,karan.malhotra57@yahoo.com,,Guwahati,Assam,14AAAAA3823A1Z3,2022-09-14
+75,C2069,Rohit Kapoor,Contractor,New Construction,ROHIT.KAPOOR64@YAHOO.COM,+91-9669974680,Chennai,Tamil Nadu,,2025-10-28
+76,C2052,Suresh Patel,Contractor,New Construction,suresh.patel84@outlook.com,+91-7975743520,Jaipur,Rajasthan,25AAAAA7461A1Z2,2024-02-29
+77,C2092,Vivek Bansal,Retail,New Construction,vivek.bansal38@hotmail.com,+91-9448114429,Pune,Maharashtra,,2021-01-08
+78,C2108,Rohit Khan,Retail,Individual Homeowner,rohit.khan83@gmail.com,+91-8293021294,Ahmedabad,Gujarat,,2025-07-02
+79,C2098,Harish Sharma,Contractor,Commercial Project,harish.sharma29@gmail.com,+91-9430595921,Bhubaneswar,Odisha,13AAAAA6497A1Z5,2021-11-26
+80,C2058,Rahul Sharma,Retail,Individual Homeowner,rahul.sharma82@rediffmail.com,+91-7419392113,Kolkata,West Bengal,,2024-05-29
+81,C2024,Ramesh Malhotra,Retail,Individual Homeowner,ramesh.malhotra78@hotmail.com,+91-8066990285,Indore,Madhya Pradesh,,2025-12-21
+82,C2030,Ramesh Chauhan,Builder/Developer,New Construction,ramesh.chauhan24@rediffmail.com,+91-7914417540,Jaipur,Rajasthan,10AAAAA2451A1Z5,2022-01-02
+83,C2019,Anjali Menon,Retail,Renovation Project,anjali.menon84@yahoo.com,+91-7495287438,Delhi,Delhi,,2021-04-23
+84,C2096,Ritu Patel,Retail,Individual Homeowner,RITU.PATEL8@GMAIL.COM,+91-8330334334,Ranchi,Jharkhand,,2021-04-14
+85,C2013,Swati Kapoor,Retail,Commercial Project,swati.kapoor19@gmail.com,+91-8574173417,Patna,Bihar,,2026-03-24
+86,C2078,Harish Gupta,Contractor,New Construction,harish.gupta7@outlook.com,+91-7928397531,Delhi,Delhi,,2025-08-06
+87,C2033,Vivek Malhotra,Builder/Developer,Renovation Project,VIVEK.MALHOTRA5@GMAIL.COM,+91-8137012380,Guwahati,Assam,16AAAAA9425A1Z8,2024-01-14
+88,C2038,Ramesh Sharma,Retail,Individual Homeowner,ramesh.sharma3@outlook.com,,Dhanbad,Jharkhand,,2022-08-13
+89,C2119,Sanjay Mehta,Architect/Interior Designer,Renovation Project,sanjay.mehta9@yahoo.com,+91-8514237788,Bhubaneswar,Odisha,17AAAAA3396A1Z6,2025-05-25
+90,C2010,Amit Kumar,Architect/Interior Designer,New Construction,amit.kumar84@gmail.com,+91-7411277566,Raipur,Chhattisgarh,,2024-07-29
+91,C2027,Preeti Kapoor,Builder/Developer,Renovation Project,preeti.kapoor52@outlook.com,+91-9314466560,Delhi,Delhi,12AAAAA6995A1Z1,2022-10-24
+92,C2095,Gaurav Singh,Builder/Developer,Renovation Project,gaurav.singh8@hotmail.com,+91-8317144634,Dhanbad,Jharkhand,28AAAAA8270A1Z9,2024-01-10
+93,C2110,Rakesh Bansal,Contractor,New Construction,rakesh.bansal33@hotmail.com,+91-8517667514,Kolkata,West Bengal,30AAAAA4898A1Z9,2022-11-26
+94,C2002,Ritu Gupta,Contractor,Individual Homeowner,ritu.gupta8@hotmail.com,+91-7731592657,Indore,Madhya Pradesh,17AAAAA1763A1Z9,2022-05-23
+95,C2075,Arjun Bose,Retail,New Construction,arjun.bose86@gmail.com,+91-8471689041,Bengaluru,Karnataka,,2022-12-30
+96,C2112,Rohit Patel,Retail,Commercial Project,rohit.patel56@outlook.com,+91-7486049597,Patna,Bihar,,2022-09-11
+97,C2045,Neha Agarwal,Retail,Individual Homeowner,neha.agarwal65@rediffmail.com,+91-7057347956,Bengaluru,Karnataka,,2026-04-22
+98,C2068,Swati Iyer,Architect/Interior Designer,Individual Homeowner,swati.iyer39@gmail.com,+91-9445951482,Ahmedabad,Gujarat,35AAAAA2070A1Z1,2023-12-10
+99,C2018,Karan Khan,Builder/Developer,Individual Homeowner,karan.khan23@rediffmail.com,+91-9563436125,Dhanbad,Jharkhand,35AAAAA7485A1Z8,2025-05-11
+100,C2101,Amit Sharma,Builder/Developer,Renovation Project,amit.sharma75@gmail.com,+91-9586037782,Raipur,Chhattisgarh,11AAAAA1440A1Z2,2024-06-14
+101,C2117,Imran Bansal,Builder/Developer,New Construction,imran.bansal88@yahoo.com,+91-8344669888,Ranchi,Jharkhand,13AAAAA6824A1Z1,2024-11-05
+102,C2073,Ritu Nair,Retail,Renovation Project,ritu.nair32@hotmail.com,+91-7212361913,Kolkata,West Bengal,,2024-08-29
+103,C2111,Meena Mehta,Builder/Developer,Renovation Project,meena.mehta45@yahoo.com,+91-9369652803,Kolkata,West Bengal,,2023-10-12
+104,C2008,Vivek Kumar,Contractor,Commercial Project,vivek.kumar71@outlook.com,+91-7264031805,Mumbai,Maharashtra,37AAAAA5561A1Z7,2026-07-27
+105,C2050,Sunita Bansal,Retail,New Construction,sunita.bansal81@rediffmail.com,+91-9897513802,Ahmedabad,Gujarat,,2025-10-19
+106,C2118,Meena Das,Retail,Individual Homeowner,meena.das87@outlook.com,+91-8371665121,Bhubaneswar,Odisha,,2021-11-04
+107,C2020,Imran Ansari,Retail,Renovation Project,imran.ansari96@yahoo.com,+91-7046695154,Lucknow,Uttar Pradesh,,2021-03-29
+108,C2047,Fatima Kapoor,Retail,Renovation Project,fatima.kapoor39@yahoo.com,+91-8611199337,Bhubaneswar,Odisha,,2021-01-15
+109,C2085,Sunita Das,Contractor,Commercial Project,sunita.das63@rediffmail.com,+91-7076510459,Lucknow,Uttar Pradesh,34AAAAA8508A1Z3,2023-01-03
+110,C2011,Preeti Das,Contractor,Individual Homeowner,preeti.das9@yahoo.com,+91-9078462486,Bhubaneswar,Odisha,29AAAAA1861A1Z2,2026-05-27
+111,C2082,Shalini Kumar,Contractor,New Construction,shalini.kumar92@hotmail.com,+91-8991193409,Jamshedpur,Jharkhand,,2021-08-07
+112,C2080,Swati Malhotra,Retail,Individual Homeowner,swati.malhotra51@gmail.com,+91-8807328677,Delhi,Delhi,,2021-07-31
+113,C2055,Deepika Das,Retail,Individual Homeowner,deepika.das17@hotmail.com,+91-7909385272,Pune,Maharashtra,,2026-08-03
+114,C2063,Fatima Rao,Architect/Interior Designer,Renovation Project,fatima.rao77@yahoo.com,,Jamshedpur,Jharkhand,15AAAAA7444A1Z8,2025-05-31
+115,C2062,Ramesh Gupta,Contractor,Renovation Project,ramesh.gupta29@outlook.com,+91-9509535419,Bengaluru,Karnataka,29AAAAA9122A1Z3,2024-06-30
+116,C2042,Vikram Iyer,Builder/Developer,Renovation Project,vikram.iyer64@rediffmail.com,+91-9424295187,Mumbai,Maharashtra,,2023-08-04
+117,C2039,Anjali Chauhan,Retail,Commercial Project,anjali.chauhan93@hotmail.com,+91-9361574774,Guwahati,Assam,,2024-08-28
+118,C2084,Rahul Ansari,Retail,Commercial Project,rahul.ansari84@rediffmail.com,+91-8802492187,Ahmedabad,Gujarat,,2026-02-10
+119,C2032,Lakshmi Pillai,Retail,Renovation Project,lakshmi.pillai40@outlook.com,+91-7165033743,Mumbai,Maharashtra,,2023-12-09
