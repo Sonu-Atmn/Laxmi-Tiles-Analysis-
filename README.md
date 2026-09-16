@@ -20,6 +20,9 @@ SQL Server • SSMS • SQL • Python • Excel • Power BI/Tableau
 ## Objective
 
 To transform raw business data into clean, structured and meaningful insights for understanding sales performance and supporting business decisions.
+## Screenshots
+<img width="1920" height="1080" alt="Screenshot Overview" src="https://github.com/user-attachments/assets/36b3693a-bf6f-4b86-8f02-7fbe2c29b83d" />
+<img width="1920" height="1080" alt="Screenshot Homepage" src="https://github.com/user-attachments/assets/273d31fc-6186-4acb-b4da-82bbdb31c036" />
 
 ## Author
 
